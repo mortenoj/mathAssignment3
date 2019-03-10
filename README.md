@@ -1,6 +1,6 @@
 # Math assignment 3
 
-*To run python examples: *
+*To run python examples:*
 
 run `python3 example.py`
 
